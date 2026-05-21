@@ -1,0 +1,29 @@
+header{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-align: center;
+    border-bottom: solid rgba(255, 255, 255, 0.2) 1px;
+    padding: 0 0 2rem 0;
+}
+
+header>h1{
+    padding: 0;
+    margin: 2rem;
+}
+
+#headerLinks{
+    font-size: 1.25rem;
+}
+
+#headerLinks>a{
+    margin: 0 1rem;
+    font-weight: normal;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+#headerLinks>a:hover{
+    display: inline-block;
+    transform: scale(1.1);
+    transition: transform 0.25s ease;
+}

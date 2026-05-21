@@ -1,0 +1,24 @@
+.postArticle{
+    height: 7.5rem;
+    width: 30rem;
+    background-color: #444;
+    border-radius: 10px;
+    padding:2rem;
+    margin: 2rem;
+}
+
+.postArticle>h2{
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.articleDate{
+    font-size: 0.9rem;
+    color: #ffffffa0;
+    /* margin-top: 10px; */
+}
+
+.postArticle>.postPreview{
+    /* margin: 0; */
+}

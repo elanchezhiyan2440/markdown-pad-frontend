@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root {
+    --primary-green: #91AB8F;
+    font-family: "Open Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.906);
+    background-color: #111;
+}
+
+/* reset styles */
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
